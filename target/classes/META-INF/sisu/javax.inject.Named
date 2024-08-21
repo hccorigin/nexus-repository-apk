@@ -1,0 +1,13 @@
+org.sonatype.nexus.plugins.apk.datastore.internal.ApkContentFacetImpl
+org.sonatype.nexus.plugins.apk.datastore.internal.ApkProxyFacetImpl
+org.sonatype.nexus.plugins.apk.datastore.internal.ApkProxyRecipe
+org.sonatype.nexus.plugins.apk.datastore.internal.store.ApkStoreModule
+org.sonatype.nexus.plugins.apk.internal.ApkContentValidator
+org.sonatype.nexus.plugins.apk.internal.ApkFormat
+org.sonatype.nexus.plugins.apk.internal.ApkFormatSecurityContributor
+org.sonatype.nexus.plugins.apk.internal.ApkSecurityFacet
+org.sonatype.nexus.plugins.apk.internal.ui.UiPluginDescriptorImpl
+org.sonatype.nexus.plugins.apk.orient.internal.ApkDataAccess
+org.sonatype.nexus.plugins.apk.orient.internal.ApkPathUtils
+org.sonatype.nexus.plugins.apk.orient.internal.ApkProxyFacetImpl
+org.sonatype.nexus.plugins.apk.orient.internal.ApkProxyRecipe

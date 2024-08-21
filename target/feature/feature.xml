@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<features xmlns="http://karaf.apache.org/xmlns/features/v1.6.0" name="nexus-repository-apk">
+    <feature name="nexus-repository-apk" description="nexus-repository-apk" version="0.0.26">
+        <details>${project.name}</details>
+        <bundle>mvn:org.sonatype.nexus.plugins/nexus-repository-apk/0.0.26</bundle>
+        <bundle>mvn:org.apache.commons/commons-compress/1.21</bundle>
+    </feature>
+</features>
